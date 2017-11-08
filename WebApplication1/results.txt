@@ -1,0 +1,3 @@
+Number of letters: 5 | Words: 3
+Number of letters: 4 | Words: 5
+Number of letters: 2 | Words: 2
