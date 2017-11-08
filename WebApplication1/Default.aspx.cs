@@ -80,6 +80,8 @@ namespace WebApplication1
                 }
             }
 
+            res.Text = "Success! The results have been saved in " + saveurl + "results.txt"; 
+
         }
     }
 }

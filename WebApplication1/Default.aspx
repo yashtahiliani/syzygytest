@@ -11,5 +11,8 @@
 
 <br />
 <asp:Button ID="sub" runat="server" Text="Submit" OnClick="sub_Click" />
+<br />
+<br />
+<asp:Literal runat="server" ID="res"></asp:Literal>
 
 </asp:Content>
